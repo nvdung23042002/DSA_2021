@@ -1,0 +1,2 @@
+# EXERCISE
+assignments everyweek
