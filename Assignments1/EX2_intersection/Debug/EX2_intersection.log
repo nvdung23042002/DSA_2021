@@ -1,0 +1,10 @@
+﻿  EX2_intersection.cpp
+C:\Users\hscng\OneDrive\Documents\Assignments1\EX2_intersection\EX2_intersection.cpp(58,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hscng\OneDrive\Documents\Assignments1\EX2_intersection\EX2_intersection.cpp(59,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hscng\OneDrive\Documents\Assignments1\EX2_intersection\EX2_intersection.cpp(60,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hscng\OneDrive\Documents\Assignments1\EX2_intersection\EX2_intersection.cpp(61,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hscng\OneDrive\Documents\Assignments1\EX2_intersection\EX2_intersection.cpp(64,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hscng\OneDrive\Documents\Assignments1\EX2_intersection\EX2_intersection.cpp(64,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hscng\OneDrive\Documents\Assignments1\EX2_intersection\EX2_intersection.cpp(64,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\hscng\OneDrive\Documents\Assignments1\EX2_intersection\EX2_intersection.cpp(64,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  EX2_intersection.vcxproj -> C:\Users\hscng\OneDrive\Documents\Assignments1\EX2_intersection\Debug\EX2_intersection.exe
