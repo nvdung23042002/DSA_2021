@@ -63,7 +63,9 @@ int main()
     //
     sort(arr, arr + n);
     // search min
-    cout << Way2(arr, n, k);
+    /*cout << Way2(arr, n, k);*/
+    char s = '1';
+    cout << int(s);
     return 0;
 }
 
