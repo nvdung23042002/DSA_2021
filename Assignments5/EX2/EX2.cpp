@@ -20,8 +20,8 @@ struct Tree
         root = NULL;
     }
     // insert node
-    void insert(int x, Node* &root)
-    {      
+    void insert(int x, Node*& root)
+    {
         if (root == NULL) {
             Node* temp = new Node;
             temp->data = x;
@@ -31,10 +31,10 @@ struct Tree
         }
         else {
             if (x < root->data) {
-                insert(x,root->left);
+                insert(x, root->left);
             }
             else {
-                insert(x,root->right);
+                insert(x, root->right);
             }
         }
     }
@@ -62,7 +62,7 @@ struct Tree
                     {
                         t = t->right;
                     }
-                    else if(t->right == NULL)
+                    else if (t->right == NULL)
                     {
                         t = t->left;
                     }
@@ -93,7 +93,7 @@ struct Tree
 
 int main()
 {
-    Tree *da = new Tree;
+    Tree* da = new Tree;
     da->insert(2, da->root);
     da->insert(1, da->root);
     da->insert(10, da->root);
